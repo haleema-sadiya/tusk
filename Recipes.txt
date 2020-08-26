@@ -4,6 +4,8 @@ bitter guard
 ketchup
 new version stars 
 pizza
+burger 
+bread sticks
 pasta
 noodles
 merging has done
